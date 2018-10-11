@@ -1,0 +1,40 @@
+.home{
+   position: relative;
+   min-height: 50vh;
+   background-image: url("../img/Screenshot_20180719-183350.png");
+   background-position: center;
+   background-size: cover;
+}
+.heading{
+   position: center;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   color: rgb(19, 18, 17);
+
+}
+.sub-heading{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   background-color: rgb(11, 14, 13);
+}
+
+.footer{
+   background-color: midnightblue;
+   color: #fff;
+   height: 90px;
+}
+.footer a{
+   color:wheat;
+}
+.footer span{
+   color:wheat;
+}
+p1{
+    background-color: black;
+}
+h2{
+    background-color:black;
+}
