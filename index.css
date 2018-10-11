@@ -1,7 +1,7 @@
 .home{
    position: relative;
    min-height: 50vh;
-   background-image: url("../img/Screenshot_20180719-183350.png");
+   background-image: url("Screenshot_20180719-183350.png");
    background-position: center;
    background-size: cover;
 }
